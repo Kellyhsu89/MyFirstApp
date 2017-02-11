@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A2C6A7F21E49ECD400066FBB = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = K7NH88RW4V;
 						ProvisioningStyle = Automatic;
 					};
 					A2C6A8061E49ECD400066FBB = {
@@ -410,7 +411,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = K7NH88RW4V;
 				INFOPLIST_FILE = "ios class 1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.class-1.ios-class-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = K7NH88RW4V;
 				INFOPLIST_FILE = "ios class 1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.class-1.ios-class-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
